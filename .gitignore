@@ -1,4 +1,5 @@
-/data/
-/rossmann-store-sales/
+/__pycache__/
 /.vscode/
 /ap8venv/
+/archive/
+/data/
